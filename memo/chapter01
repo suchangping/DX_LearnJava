@@ -1,0 +1,41 @@
+コンパイル　build 编译
+コンパイラ　
+実行
+インタプリタ interpreter
+JVM Java Virtual Machine
+マイン語
+機　語
+ブロック　block
+メソッド method
+； セミコロン
+： コロン
+.  ピリオド
+,  カンマ
+カッコ
+()
+{}
+[]
+、
+パブリック pubic
+スタティック static
+ボイド void
+メイン main
+ストリング String
+エーアールジーエス args
+インデント indent 空格
+格納　かくのう　存储
+変数　へんすう　变量
+引数　ひきすう 参数
+戻り値 もどりち 返回值
+代入　だいにゅ
+取得　しゅとく　取得
+宣言　せんげん
+識別子　identifier 标识符
+アルファベット
+_ アンダースコア
+$ ドル
+予約語　よやくご　keyword
+データ型　でーたかた　data type
+浮動小数点 floating point type
+真伪値型
+コンパイルエラー
