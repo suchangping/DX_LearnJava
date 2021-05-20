@@ -1,0 +1,3 @@
+コマンドライン引数 command line argument
+・プログラム起動時にの追加情報のことをコマンドラインと言います。
+public static void main(String args[])
